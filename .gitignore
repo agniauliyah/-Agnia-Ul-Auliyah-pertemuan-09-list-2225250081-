@@ -1,0 +1,15 @@
+
+# File cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Pengaturan editor
+.vscode/
+
+# File sistem
+.DS_Store
+Thumbs.db
